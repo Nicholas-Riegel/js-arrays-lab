@@ -263,5 +263,5 @@ numArrays.forEach(x => {
   })
 })
 
-console.log('Exercise 15 result:\n', total);
+// console.log('Exercise 15 result:\n', total);
 
